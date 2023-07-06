@@ -1,18 +1,24 @@
-# Git tutorial
-__version__: `0.9.1a1`
+# Git tutorial :computer:
+__version__: `1.00 v`
 
-This repository gives an introduction and overview of Git.
+ :sparkles: This repository gives an introduction and overview of Git for Python Summer School Utrecht 2023. 
 
-## Content
-[[_TOC_]]
+## Content :books:	
+- Clone a Repo
+- Staging
+- Making Commit
+- Vim/Nano
+- Branching
+- Deleting A branch
+- Merging a branch
 
-## Tutorials
+## Tutorials :closed_book:
 - [Setup and basic commands](setup_basic.md)
 - [Working with a remote](remote.md)
 - [Collaborating and branches](branches.md)
 - [Changing history](history.md)
-
-## Resources
+ 
+## Resources :slightly_smiling_face:
 These are some resources that helped me along the way and on which this
 tutorial is even based, so please do check them out. The first is the most 
 important resource, the Git book itself, the others are in random order.
@@ -23,8 +29,6 @@ important resource, the Git book itself, the others are in random order.
 - Another very good [git/gihub tutorial](https://kbroman.org/github_tutorial/)
 - And another [tutorial](https://happygitwithr.com/index.html), but more elaborate and includes specific RStudio instructions
 - A tutorial on working with a [high performance cluster](https://gitlab.com/SchmidtAF/setup_hpc_environment) and (amongst others) git
+- [Git tutorial from marion](https://gitlab.com/mvvugt/git_tutorial)
 
-## Contributing
-Want to contribute? Read more in the 
-[Collaborating and branches tutorial](branches.md) and feel free to do so.
-All contributors will be [listed](Contributors.txt).
+
